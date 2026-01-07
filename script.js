@@ -1,3 +1,3 @@
-function addToCart(product) {
-    alert(product + " added to cart successfully!");
+function addToCart() {
+    alert("Product added to cart");
 }
